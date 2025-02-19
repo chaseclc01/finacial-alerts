@@ -1,8 +1,5 @@
 # Django Financial Alerts System
 
-This project utilizes is built onto of the Financial Alert System Django [REST] framework provided by Piere found at 
-https://github.com/Univers-Technology/financial-alerts. 
-
 What has been added is a budget app which contains logic for three end-points listed below,
 
 http://127.0.0.1:8000/api/alert
